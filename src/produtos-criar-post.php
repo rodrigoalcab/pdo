@@ -18,5 +18,5 @@ try{
     header('Location: produtos.php');
 
 }catch (Exception $e){
-    Erro::trataErro();
+    Erro::trataErro($e);
 }
