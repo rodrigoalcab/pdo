@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e86f1fa-d670-462d-a3e0-36b206338c4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/categorias-editar-post.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/categorias-editar-post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/categorias-detalhe.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/categorias-detalhe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/categorias.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/categorias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/Categoria.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Categoria.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classes/Produto.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Produto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/produtos-editar.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/produtos-editar.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +35,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/robo-excluir.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/categorias.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="330">
+              <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/categorias-detalhe.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/global.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/Categoria.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="67" column="65" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -45,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/Produto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1570">
-              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+            <state relative-caret-position="215">
+              <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -80,20 +109,21 @@
         <option value="$PROJECT_DIR$/src/categorias-excluir-post.php" />
         <option value="$PROJECT_DIR$/src/categorias-criar-post.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/categorias.php" />
         <option value="$PROJECT_DIR$/src/produtos-criar.php" />
         <option value="$PROJECT_DIR$/src/produtos-criar-post.php" />
         <option value="$PROJECT_DIR$/src/classes/robo.php" />
         <option value="$PROJECT_DIR$/src/robo.php" />
-        <option value="$PROJECT_DIR$/src/classes/Categoria.php" />
         <option value="$PROJECT_DIR$/src/produtos.php" />
         <option value="$PROJECT_DIR$/src/produtos-editar.php" />
         <option value="$PROJECT_DIR$/src/categorias-editar-post.php" />
         <option value="$PROJECT_DIR$/src/produto-editar-post.php" />
-        <option value="$PROJECT_DIR$/src/classes/Produto.php" />
         <option value="$PROJECT_DIR$/src/produtos-excluir-post.php" />
         <option value="$PROJECT_DIR$/src/robo-editar.php" />
         <option value="$PROJECT_DIR$/src/robo-excluir.php" />
+        <option value="$PROJECT_DIR$/src/categorias.php" />
+        <option value="$PROJECT_DIR$/src/classes/Produto.php" />
+        <option value="$PROJECT_DIR$/src/classes/Categoria.php" />
+        <option value="$PROJECT_DIR$/src/categorias-detalhe.php" />
       </list>
     </option>
   </component>
@@ -175,12 +205,12 @@
       <updated>1563837513277</updated>
       <workItem from="1563837514814" duration="6731000" />
       <workItem from="1563927423268" duration="5922000" />
-      <workItem from="1564097111615" duration="20347000" />
+      <workItem from="1564097111615" duration="21856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33000000" />
+    <option name="totallyTimeSpent" value="34509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -240,13 +270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/global.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/banco_de_dados.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-287" />
@@ -256,13 +279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/categorias.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -315,13 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Categoria.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/categorias-editar-post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -364,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Produto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1570">
-          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/robo-editar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -380,8 +382,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/robo-excluir.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="-90">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/categorias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Categoria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="67" column="65" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Produto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/categorias-detalhe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
